@@ -1,5 +1,64 @@
 # Change Log
 
+## 1.4.3
+
+### Patch Changes
+
+- Updated dependencies
+  [[`38706f731`](https://github.com/chakra-ui/chakra-ui/commit/38706f731372783bb05f01b5755a1753fab16f9e),
+  [`1a04a41bd`](https://github.com/chakra-ui/chakra-ui/commit/1a04a41bd2285069011a738fff422ba1a6fcce94),
+  [`c69d2b983`](https://github.com/chakra-ui/chakra-ui/commit/c69d2b98350b57f133d6a8ea47b631cd25693aee),
+  [`75817ec42`](https://github.com/chakra-ui/chakra-ui/commit/75817ec428ca3c078660a7c7f2a1c1b578c474df),
+  [`75817ec42`](https://github.com/chakra-ui/chakra-ui/commit/75817ec428ca3c078660a7c7f2a1c1b578c474df),
+  [`e481ba491`](https://github.com/chakra-ui/chakra-ui/commit/e481ba4914a7f163d93d4c22e2e457f1afb08721),
+  [`d86a0f6b4`](https://github.com/chakra-ui/chakra-ui/commit/d86a0f6b4cfcaaf759559325c8fe8b9376f7548b),
+  [`75817ec42`](https://github.com/chakra-ui/chakra-ui/commit/75817ec428ca3c078660a7c7f2a1c1b578c474df),
+  [`07ddf0f27`](https://github.com/chakra-ui/chakra-ui/commit/07ddf0f276e14f900119668c87947d3e669e09af)]:
+  - @chakra-ui/checkbox@1.4.1
+  - @chakra-ui/number-input@1.2.1
+  - @chakra-ui/accordion@1.2.1
+  - @chakra-ui/editable@1.2.1
+  - @chakra-ui/menu@1.3.1
+  - @chakra-ui/popover@1.5.0
+  - @chakra-ui/radio@1.3.1
+  - @chakra-ui/slider@1.2.1
+  - @chakra-ui/tabs@1.3.1
+  - @chakra-ui/utils@1.5.1
+  - @chakra-ui/transition@1.1.2
+  - @chakra-ui/popper@2.1.0
+  - @chakra-ui/theme@1.8.1
+  - @chakra-ui/form-control@1.3.1
+  - @chakra-ui/modal@1.8.1
+  - @chakra-ui/alert@1.2.1
+  - @chakra-ui/avatar@1.2.1
+  - @chakra-ui/breadcrumb@1.2.1
+  - @chakra-ui/button@1.2.1
+  - @chakra-ui/hooks@1.3.1
+  - @chakra-ui/input@1.2.1
+  - @chakra-ui/layout@1.4.1
+  - @chakra-ui/pin-input@1.5.1
+  - @chakra-ui/portal@1.2.1
+  - @chakra-ui/switch@1.2.1
+  - @chakra-ui/close-button@1.1.5
+  - @chakra-ui/control-box@1.0.8
+  - @chakra-ui/counter@1.1.1
+  - @chakra-ui/icon@1.1.5
+  - @chakra-ui/image@1.0.11
+  - @chakra-ui/live-region@1.0.8
+  - @chakra-ui/media-query@1.0.9
+  - @chakra-ui/progress@1.1.5
+  - @chakra-ui/select@1.1.5
+  - @chakra-ui/skeleton@1.1.8
+  - @chakra-ui/spinner@1.1.5
+  - @chakra-ui/stat@1.1.5
+  - @chakra-ui/system@1.6.1
+  - @chakra-ui/table@1.1.5
+  - @chakra-ui/tag@1.1.5
+  - @chakra-ui/textarea@1.1.5
+  - @chakra-ui/toast@1.2.2
+  - @chakra-ui/tooltip@1.3.1
+  - @chakra-ui/visually-hidden@1.0.8
+
 ## 1.4.2
 
 ### Patch Changes
@@ -716,7 +775,6 @@
   "to-bl" // 'to bottom left'
   "to-l" // 'to left'
   "to-tl" // 'to top left'
-
   ```
 
   ```jsx
